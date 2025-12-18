@@ -17,21 +17,21 @@ Traditional manual methods, such as the Greulich-Pyle or Tanner-Whitehouse metho
 
 ## Approach
 
-1. Data Preprocessing
+#### 1. Data Preprocessing
 
 - Collected hand/wrist radiographs
 - Resized and normalized images
 - Annotated with chronological age
 
-2. Feature Extraction
+#### 2. Feature Extraction
 
 - Traditional radiographic markers (bone length, shape ratios)
 
-3. Model Training
+#### 3. Model Training
 
 - Regression models to predict age (years/months)
 
-4. Evaluation
+#### 4. Evaluation
 
 - Metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE)
 - Visualizations of predicted vs actual age
