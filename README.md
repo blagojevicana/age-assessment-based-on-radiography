@@ -3,6 +3,7 @@
 ## Overview
 
 This project implements a machine learning approach for estimating children’s chronological age based on radiographs of hand and wrist bones. The model analyzes key skeletal features to predict age, assisting pediatric assessment in clinical and forensic applications.
+
 ![Carpal bones](figures/carpal_bones.png)
 
 ## Motivation
