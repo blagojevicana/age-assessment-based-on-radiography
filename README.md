@@ -3,6 +3,7 @@
 ## Overview
 
 This project implements a machine learning approach for estimating children’s chronological age based on radiographs of hand and wrist bones. The model analyzes key skeletal features to predict age, assisting pediatric assessment in clinical and forensic applications.
+![Carpal bones](figures/carpal_bones.png)
 
 ## Motivation
 
@@ -33,6 +34,9 @@ Traditional manual methods, such as the Greulich-Pyle or Tanner-Whitehouse metho
 
 - Metrics: Mean Absolute Error (MAE), Root Mean Squared Error (RMSE)
 - Visualizations of predicted vs actual age
+
+![Female](figures/female.png)
+![Male](figures/male.png)
 
 ## Technologies
 - Python 3.x
